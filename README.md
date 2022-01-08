@@ -8,8 +8,33 @@ or if it doesn't work => https://csblog-stupid.netlify.app/
 
 You can add your pages by adding it in 'content/posts/yourpost'
 Any help would be greatly appreciated!
-## For running locally
 
+## Run Locally
+
+Clone the project
+
+```bash
+  wget https://github.com/stupid-kid-af/csblog-stupid/files/7832995/csblog-stupid.tar.gz
+```
+
+Extract the zip;
+And goto the project
+
+Install dependencies
+
+U have to install 'hugo'
+Check the docs => https://gohugo.io/
+
+```bash
+  sudo pacman -S hugo (in Arch) 
+
+```
+
+Start the server
+
+```bash
+  hugo server -D
+```
 
 ## Support 
 
