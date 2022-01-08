@@ -8,6 +8,7 @@ or if it doesn't work => https://csblog-stupid.netlify.app/
 
 You can add your pages by adding it in 'content/posts/yourpost'
 Any help would be greatly appreciated!
+## For running locally
 
 
 ## Support 
