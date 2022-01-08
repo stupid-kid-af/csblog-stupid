@@ -26,7 +26,7 @@ U have to install 'hugo'
 Check the docs => https://gohugo.io/
 
 ```bash
-  sudo pacman -S hugo //(in Arch) 
+  sudo pacman -S hugo #(in Arch) 
 
 ```
 
