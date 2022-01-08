@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on stupid-kid-af (Ashutosh Tripathi)</title>
-    <link>https://csblog-stupid.netlify.app/categories/</link>
-    <description>Recent content in Categories on stupid-kid-af (Ashutosh Tripathi)</description>
+    <title>Categories on csblog-Stupid</title>
+    <link>https://stupid-kid-af.github.io/csblog-stupid/categories/</link>
+    <description>Recent content in Categories on csblog-Stupid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://csblog-stupid.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://stupid-kid-af.github.io/csblog-stupid/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gui</title>
-      <link>https://csblog-stupid.netlify.app/categories/gui/</link>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/categories/gui/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
       
-      <guid>https://csblog-stupid.netlify.app/categories/gui/</guid>
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/categories/gui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pyqt5</title>
-      <link>https://csblog-stupid.netlify.app/categories/pyqt5/</link>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/categories/pyqt5/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
       
-      <guid>https://csblog-stupid.netlify.app/categories/pyqt5/</guid>
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/categories/pyqt5/</guid>
       <description></description>
     </item>
     

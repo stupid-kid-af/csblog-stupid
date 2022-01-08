@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://csblog-stupid.netlify.app/posts/my-first-post/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/categories/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/categories/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/tags/dice-simulator/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/tags/encryption-decryption/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/tags/dice-simulator/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/categories/gui/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/tags/encryption-decryption/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/tags/hugo/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/categories/gui/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/posts/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/tags/hugo/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/tags/pyqt5/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/posts/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/categories/pyqt5/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/tags/pyqt5/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/posts/my-second-post/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/categories/pyqt5/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url><url>
-    <loc>https://csblog-stupid.netlify.app/tags/</loc>
+    <loc>https://stupid-kid-af.github.io/csblog-stupid/tags/</loc>
     <lastmod>2022-01-08T12:10:13+05:30</lastmod>
   </url>
 </urlset>
