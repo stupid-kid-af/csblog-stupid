@@ -1,10 +1,12 @@
-# csblog-stupid
+# csblog-Stupid
 
 ## A CS blog that contain useful resouces!
   U can watch the blog live at https://csblog-stupid.netlify.app/
+  
 
 You can add your pages by adding it in 'content/posts/yourpost'
-Any help would be greatly appreciated.
+Any help would be greatly appreciated!
+
 
 ## Support 
 
