@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'stupid-kid-af (Ashutosh Tripathi)'
+theme = "ananke"
