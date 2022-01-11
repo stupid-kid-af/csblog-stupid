@@ -2,6 +2,9 @@
 title: "PyQt5 project => Dice Simulator"
 date: 2022-01-08T12:10:13+05:30
 description: "Saying 'Hello' from Hugo"
+weight: 1
+background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
+align: right
 draft: false
 categories:
   - "pyqt5"
@@ -17,7 +20,7 @@ Dice Simulator
 
 A GUI to simulate 6 faced dice using PyQt5.
 Screenshots
-
+![App Screenshots](https://user-images.githubusercontent.com/54206927/147590574-9a813ebf-f91a-458b-8770-39b36242f9ac.png)
 App Screenshots App Screenshots About
 For installing dependencies
 

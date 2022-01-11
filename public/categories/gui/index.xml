@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gui on stupid-kid-af (Ashutosh Tripathi)</title>
-    <link>https://csblog-stupid.netlify.app/categories/gui/</link>
-    <description>Recent content in gui on stupid-kid-af (Ashutosh Tripathi)</description>
+    <title>gui on csblog-Stupid</title>
+    <link>https://stupid-kid-af.github.io/csblog-stupid/categories/gui/</link>
+    <description>Recent content in gui on csblog-Stupid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://csblog-stupid.netlify.app/categories/gui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://stupid-kid-af.github.io/csblog-stupid/categories/gui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A solution for encrypting and decrypting files built with PyQt5</title>
-      <link>https://csblog-stupid.netlify.app/posts/my-first-post/</link>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
       
-      <guid>https://csblog-stupid.netlify.app/posts/my-first-post/</guid>
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</guid>
       <description>Encrypt-Decrypt-PyQt5
 A solution for encrypting and decrypting files built with PyQt5 Run Locally
 Clone the project
@@ -26,10 +26,10 @@ https://github.com/stupid-kid-af/Encrypt-Decrypt-PyQt5</description>
     
     <item>
       <title>PyQt5 project =&gt; Dice Simulator</title>
-      <link>https://csblog-stupid.netlify.app/posts/my-second-post/</link>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
       
-      <guid>https://csblog-stupid.netlify.app/posts/my-second-post/</guid>
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</guid>
       <description>Dice Simulator
 A GUI to simulate 6 faced dice using PyQt5. Screenshots
 App Screenshots App Screenshots About For installing dependencies

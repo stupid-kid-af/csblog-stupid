@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>encryption-decryption on stupid-kid-af (Ashutosh Tripathi)</title>
-    <link>https://csblog-stupid.netlify.app/tags/encryption-decryption/</link>
-    <description>Recent content in encryption-decryption on stupid-kid-af (Ashutosh Tripathi)</description>
+    <title>encryption-decryption on csblog-Stupid</title>
+    <link>https://stupid-kid-af.github.io/csblog-stupid/tags/encryption-decryption/</link>
+    <description>Recent content in encryption-decryption on csblog-Stupid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://csblog-stupid.netlify.app/tags/encryption-decryption/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://stupid-kid-af.github.io/csblog-stupid/tags/encryption-decryption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A solution for encrypting and decrypting files built with PyQt5</title>
-      <link>https://csblog-stupid.netlify.app/posts/my-first-post/</link>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
       
-      <guid>https://csblog-stupid.netlify.app/posts/my-first-post/</guid>
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</guid>
       <description>Encrypt-Decrypt-PyQt5
 A solution for encrypting and decrypting files built with PyQt5 Run Locally
 Clone the project
