@@ -5,7 +5,7 @@
   U can watch the blog live at https://stupid-kid-af.github.io/csblog-stupid/ 
 or if it doesn't work => https://csblog-stupid.netlify.app/
   
-
+Updating the blog soon!!
 You can add your pages by adding it in 'content/posts/yourpost'
 Any help would be greatly appreciated!
 
