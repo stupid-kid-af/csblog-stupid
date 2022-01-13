@@ -1,0 +1,4 @@
+baseURL = 'https://stupid-kid-af.github.io/csblog-stupid/'
+languageCode = 'en-us'
+title = 'csblog-Stupid'
+theme = "ananke"

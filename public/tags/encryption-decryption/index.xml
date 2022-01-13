@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encryption-decryption on csblog-Stupid</title>
+    <link>https://stupid-kid-af.github.io/csblog-stupid/tags/encryption-decryption/</link>
+    <description>Recent content in encryption-decryption on csblog-Stupid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://stupid-kid-af.github.io/csblog-stupid/tags/encryption-decryption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A solution for encrypting and decrypting files built with PyQt5</title>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
+      
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</guid>
+      <description>Encrypt-Decrypt-PyQt5
+A solution for encrypting and decrypting files built with PyQt5 Run Locally
+Clone the project
+ git clone https://github.com/stupid-kid-af/Encrypt-Decrypt-PyQt5.git  Go to the project directory
+ cd Encrypt-Decrypt-PyQt5  Install dependencies
+pip install PyQt5  Roadmap
+Additional platform support Add more integrations  Support
+For support, email pushpatripath1111@gmail.com or join our Telegram channel (Soon). GitHub
+https://github.com/stupid-kid-af/Encrypt-Decrypt-PyQt5</description>
+    </item>
+    
+  </channel>
+</rss>
