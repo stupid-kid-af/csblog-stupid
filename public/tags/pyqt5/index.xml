@@ -8,6 +8,23 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jan 2022 12:10:13 +0530</lastBuildDate><atom:link href="https://stupid-kid-af.github.io/csblog-stupid/tags/pyqt5/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PyQt5 project =&gt; Dice Simulator</title>
+      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</link>
+      <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
+      
+      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</guid>
+      <description>Dice Simulator
+A GUI to simulate 6 faced dice using PyQt5. Screenshots App Screenshots App Screenshots About For installing dependencies
+For installing dependencies of this project &amp;ldquo;Dice-Simulator&amp;rdquo;
+pip install PyQt5  Run Locally
+To run this project &amp;ldquo;Dice-Simulator&amp;rdquo;
+git clone https://github.com/ankydv/Dice-Simulator.git cd Dice-Simulator python main.py  Demo
+Click on the button &amp;quot;Roll&amp;quot;!  You&amp;rsquo;ll get the random output between 1-6!! Roadmap
+Adding animations Add more integrations  License
+MIT  Support</description>
+    </item>
+    
+    <item>
       <title>A solution for encrypting and decrypting files built with PyQt5</title>
       <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-first-post/</link>
       <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
@@ -22,24 +39,6 @@ pip install PyQt5  Roadmap
 Additional platform support Add more integrations  Support
 For support, email pushpatripath1111@gmail.com or join our Telegram channel (Soon). GitHub
 https://github.com/stupid-kid-af/Encrypt-Decrypt-PyQt5</description>
-    </item>
-    
-    <item>
-      <title>PyQt5 project =&gt; Dice Simulator</title>
-      <link>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</link>
-      <pubDate>Sat, 08 Jan 2022 12:10:13 +0530</pubDate>
-      
-      <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</guid>
-      <description>Dice Simulator
-A GUI to simulate 6 faced dice using PyQt5. Screenshots
-App Screenshots App Screenshots About For installing dependencies
-For installing dependencies of this project &amp;ldquo;Dice-Simulator&amp;rdquo;
-pip install PyQt5  Run Locally
-To run this project &amp;ldquo;Dice-Simulator&amp;rdquo;
-git clone https://github.com/ankydv/Dice-Simulator.git cd Dice-Simulator python main.py  Demo
-Click on the button &amp;quot;Roll&amp;quot;!  You&amp;rsquo;ll get the random output between 1-6!! Roadmap
-Adding animations Add more integrations  License
-MIT  Support</description>
     </item>
     
   </channel>

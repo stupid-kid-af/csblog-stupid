@@ -14,8 +14,7 @@
       
       <guid>https://stupid-kid-af.github.io/csblog-stupid/posts/my-second-post/</guid>
       <description>Dice Simulator
-A GUI to simulate 6 faced dice using PyQt5. Screenshots
-App Screenshots App Screenshots About For installing dependencies
+A GUI to simulate 6 faced dice using PyQt5. Screenshots App Screenshots App Screenshots About For installing dependencies
 For installing dependencies of this project &amp;ldquo;Dice-Simulator&amp;rdquo;
 pip install PyQt5  Run Locally
 To run this project &amp;ldquo;Dice-Simulator&amp;rdquo;

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ashutosh/Documents/hugo_projects/quickstart",
+	"sourceRoot": "/home/ashutosh/Documents/hugo_projects/nn/csblog-stupid",
 	"sources": [
 		"stdin"
 	],
