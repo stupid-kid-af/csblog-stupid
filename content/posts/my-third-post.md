@@ -1,12 +1,12 @@
 ---
-title: "PyQt5 project => Dice Simulator"
+title: "Open Source => Gradient-Generator Javascript"
 date: 2022-01-08T12:10:13+05:30
 description: "Saying 'Hello' from Hugo"
 weight: 1
 align: right
 draft: false
 categories:
-  - "gradient"
+  - "open-source"
   - "generator"
 tags:
   - "color-schemes"
