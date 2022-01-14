@@ -1,4 +1,20 @@
+---
+title: "PyQt5 project => Dice Simulator"
+date: 2022-01-08T12:10:13+05:30
+description: "Saying 'Hello' from Hugo"
+weight: 1
+align: right
+draft: false
+categories:
+  - "gradient"
+  - "generator"
+tags:
+  - "color-schemes"
+  - "generator"
+  - "gradient"
 
+
+---
 # Gradient-Generator-Javascript
 
 A Gradient Generator web app built with html, css and javascript.
